@@ -18,12 +18,12 @@ A lightweight, web-based, open-source word search puzzle generator built with **
 
 ## 🚀 Getting Started
 
-1. Open `index.html` in any modern web browser.
-2. Set your preferred **grid size** (between 5 and 30).
-3. Input a **comma-separated list** of words.
-4. Click **Generate Puzzle** to create the grid.
-5. Use **Show Solution** to reveal word placements.
-6. Download your puzzle or solution using the respective **Download Image** buttons.
+1. Go to **[the website](your-website-url-here)**
+2. Set your preferred **grid size** (between 5 and 30)
+3. Enter a **comma-separated list** of words
+4. Click **Generate Puzzle** to create your word search
+5. Use **Show Solution** to reveal the answers
+6. Download your puzzle or solution with the **Download Image** buttons
 
 ---
 
