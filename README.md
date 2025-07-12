@@ -17,7 +17,7 @@ A modern, web-based and open-source Word Search Puzzle Generator built with **HT
 
 ## 🚀 Getting Started
 
-1. Visit the website: [Insert URL here]
+1. Visit the website: https://lycanld.github.io/WSGen/
 2. Enter your desired grid size and word list
 3. Click **Generate Puzzle**
 4. Optional: View answers or export puzzle
