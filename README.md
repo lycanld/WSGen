@@ -1,29 +1,31 @@
 # 🔤 Word Search Generator v3 (WSGen 3)
 
-A lightweight, web-based, open-source word search puzzle generator built with **HTML, CSS, and JavaScript**.
+A lightweight, web-based, open-source Word Search Puzzle Generator built with **HTML, CSS, and JavaScript** — perfect for custom printable puzzles in seconds.
 
 ---
 
 ## ✨ Features
 
-* 🔧 Customizable grid size (5×5 to 30×30)
-* 📝 Input your own word list (comma-separated)
-* 🔀 Randomized word placement (horizontal, vertical, diagonal & reversed)
-* 📐 Responsive and dynamic puzzle layout
-* 👀 Toggle solution view with highlighted answers
-* 🖼️ Downloadable puzzle & solution images (with word list)
-* 📱 Mobile-friendly, intuitive UI
+* 🔧 Adjustable grid size (5×5 to 30×30)
+* 📝 Custom word list (comma-separated)
+* 🔀 Random placement: horizontal, vertical, diagonal — forwards & backwards
+* 📐 Dynamic, responsive puzzle layout
+* 👀 Show/hide solution with highlights
+* 🖼️ Export puzzle and solution as PNG (word list included)
+* 📱 Clean, user-friendly UI (mobile & desktop)
 
 ---
 
 ## 🚀 Getting Started
 
 1. Go to **[the website](your-website-url-here)**
-2. Set your preferred **grid size** (between 5 and 30)
-3. Enter a **comma-separated list** of words
-4. Click **Generate Puzzle** to create your word search
-5. Use **Show Solution** to reveal the answers
-6. Download your puzzle or solution with the **Download Image** buttons
+2. Set your **grid size** (between 5 and 30)
+3. Enter your **word list**, separated by commas
+4. Click **Generate Puzzle**
+5. Toggle **Show Solution** to reveal hidden words
+6. Click **Download Puzzle** or **Download Solution** to save as PNG
+
+> 💡 You can also run it locally by opening `index.html` in any modern browser.
 
 ---
 
@@ -32,18 +34,19 @@ A lightweight, web-based, open-source word search puzzle generator built with **
 ```
 📦 WSGen3/
  ┣ 📄 index.html        → Main web interface
- ┣ 📄 style.css         → UI styling and layout
- ┗ 📄 script.js         → Puzzle logic and interactivity
+ ┣ 📄 style.css         → Styles and layout
+ ┗ 📄 script.js         → Puzzle generation & logic
 ```
 
 ---
 
 ## 👤 Author
 
-Developed with 💡 by **Lycan**
+Made with ❤️ by **Lycan**
 
 ---
 
-## 📄 License
+## 📝 License
 
-This project is **open source** and available for free use, modification, and distribution.
+This project is licensed under the **MIT License** — see [`LICENSE`](./LICENSE) for details.
+Free to use, modify, and share.
