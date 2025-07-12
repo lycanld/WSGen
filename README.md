@@ -1,36 +1,49 @@
-# Word Search Generator
+# 🔤 Word Search Generator v3 (WSGen 3)
 
-This is a web-based Word Search Puzzle Generator built with HTML, CSS, and JavaScript.
+A lightweight, web-based, open-source word search puzzle generator built with **HTML, CSS, and JavaScript**.
 
-## Features
+---
 
-- User input for grid size (5 to 30)
-- User input for word list (comma separated)
-- Random placement of words horizontally, vertically, and diagonally (including backward directions)
-- Puzzle grid display with dynamic layout
-- Show solution with highlighted words
-- Download puzzle and solution as images with word list included
-- Responsive and user-friendly UI
+## ✨ Features
 
-## How to Use
+* 🔧 Customizable grid size (5×5 to 30×30)
+* 📝 Input your own word list (comma-separated)
+* 🔀 Randomized word placement (horizontal, vertical, diagonal & reversed)
+* 📐 Responsive and dynamic puzzle layout
+* 👀 Toggle solution view with highlighted answers
+* 🖼️ Downloadable puzzle & solution images (with word list)
+* 📱 Mobile-friendly, intuitive UI
 
-1. Open `index.html` in a modern web browser.
-2. Enter the desired grid size (between 5 and 30).
-3. Enter the words you want to include in the puzzle, separated by commas.
-4. Click **Generate Puzzle** to create the word search.
-5. Use **Show Solution** to highlight the placed words.
-6. Use **Download Puzzle Image** or **Download Solution Image** to save the puzzle or solution as PNG images.
+---
 
-## Project Structure
+## 🚀 Getting Started
 
-- `index.html` - Main HTML page
-- `style.css` - Stylesheet for layout and design
-- `script.js` - JavaScript logic for puzzle generation and interaction
+1. Open `index.html` in any modern web browser.
+2. Set your preferred **grid size** (between 5 and 30).
+3. Input a **comma-separated list** of words.
+4. Click **Generate Puzzle** to create the grid.
+5. Use **Show Solution** to reveal word placements.
+6. Download your puzzle or solution using the respective **Download Image** buttons.
 
-## Author
+---
 
-Created by Lycan
+## 📁 Project Structure
 
-## License
+```
+📦 WSGen3/
+ ┣ 📄 index.html        → Main web interface
+ ┣ 📄 style.css         → UI styling and layout
+ ┗ 📄 script.js         → Puzzle logic and interactivity
+```
 
-This project is open source and free to use.
+---
+
+## 👤 Author
+
+Developed with 💡 by **Lycan**
+
+---
+
+## 📄 License
+
+This project is **open source** and available for free use, modification, and distribution.
