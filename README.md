@@ -1,52 +1,36 @@
-# 🔤 Word Search Generator v3 (WSGen 3)
+# Word Search Generator
 
-A lightweight, web-based, open-source Word Search Puzzle Generator built with **HTML, CSS, and JavaScript** — perfect for custom printable puzzles in seconds.
+This is a web-based Word Search Puzzle Generator built with HTML, CSS, and JavaScript.
 
----
+## Features
 
-## ✨ Features
+- User input for grid size (5 to 30)
+- User input for word list (comma separated)
+- Random placement of words horizontally, vertically, and diagonally (including backward directions)
+- Puzzle grid display with dynamic layout
+- Show solution with highlighted words
+- Download puzzle and solution as images with word list included
+- Responsive and user-friendly UI
 
-* 🔧 Adjustable grid size (5×5 to 30×30)
-* 📝 Custom word list (comma-separated)
-* 🔀 Random placement: horizontal, vertical, diagonal — forwards & backwards
-* 📐 Dynamic, responsive puzzle layout
-* 👀 Show/hide solution with highlights
-* 🖼️ Export puzzle and solution as PNG (word list included)
-* 📱 Clean, user-friendly UI (mobile & desktop)
+## How to Use
 
----
+1. Open `index.html` in a modern web browser.
+2. Enter the desired grid size (between 5 and 30).
+3. Enter the words you want to include in the puzzle, separated by commas.
+4. Click **Generate Puzzle** to create the word search.
+5. Use **Show Solution** to highlight the placed words.
+6. Use **Download Puzzle Image** or **Download Solution Image** to save the puzzle or solution as PNG images.
 
-## 🚀 Getting Started
+## Project Structure
 
-1. Go to **[the website](your-website-url-here)**
-2. Set your **grid size** (between 5 and 30)
-3. Enter your **word list**, separated by commas
-4. Click **Generate Puzzle**
-5. Toggle **Show Solution** to reveal hidden words
-6. Click **Download Puzzle** or **Download Solution** to save as PNG
+- `index.html` - Main HTML page
+- `style.css` - Stylesheet for layout and design
+- `script.js` - JavaScript logic for puzzle generation and interaction
 
-> 💡 You can also run it locally by opening `index.html` in any modern browser.
+## Author
 
----
+Created by Lycan
 
-## 📁 Project Structure
+## License
 
-```
-📦 WSGen3/
- ┣ 📄 index.html        → Main web interface
- ┣ 📄 style.css         → Styles and layout
- ┗ 📄 script.js         → Puzzle generation & logic
-```
-
----
-
-## 👤 Author
-
-Made with ❤️ by **Lycan**
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License** — see [`LICENSE`](./LICENSE) for details.
-Free to use, modify, and share.
+This project is open source and free to use.
